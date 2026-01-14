@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://xn--1688-ugovb3ezcvf.life/"
+
+#EXTINF:-1 tvg-id="ch1" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png" group-title="Sport",monomax 2
+#EXTVLCOPT:http-referer=https://xn--1688-ugovb3ezcvf.life/
+https://slave01.appball.vip/hls/NZ0ibf9eUCvTZjnFE3tqAw/1768409811/trueballthai8.m3u8
+
+#EXTINF:-1 tvg-id="ch1" tvg-logo="https://squidmantv.lfctv.online/baphoplus/imgs/PlaySportFootball5.png" group-title="Sport",PLAY SPORTS Football 5
+#EXTVLCOPT:http-referer=https://xn--1688-ugovb3ezcvf.life/
+https://slave01.appball.vip/hls/DVJhYDlgubA3N1bU1f7fPQ/1768410751/trueballthai6.m3u8
