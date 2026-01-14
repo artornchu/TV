@@ -7,3 +7,7 @@ https://slave01.appball.vip/hls/NZ0ibf9eUCvTZjnFE3tqAw/1768409811/trueballthai8.
 #EXTINF:-1 tvg-id="ch1" tvg-logo="https://squidmantv.lfctv.online/baphoplus/imgs/PlaySportFootball5.png" group-title="Sport",PLAY SPORTS Football 5
 #EXTVLCOPT:http-referer=https://xn--1688-ugovb3ezcvf.life/
 https://slave01.appball.vip/hls/DVJhYDlgubA3N1bU1f7fPQ/1768410751/trueballthai6.m3u8
+
+#EXTINF:-1 tvg-id="ch1" tvg-logo="https://squidmantv.lfctv.online/baphoplus/imgs/PlaySportFootball7.png" group-title="Sport",PLAY SPORTS Football 7
+#EXTVLCOPT:http-referer=https://xn--1688-ugovb3ezcvf.life/
+https://slave05.appball.vip/hls/jiOeH3Ed1_V7lwapjxq_FQ/1768411893/trueballthai7.m3u8
